@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Post Type Permalinks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-28 18:45+0900\n"
+"PO-Revision-Date: 2015-02-17 11:43-0300\n"
+"Last-Translator: projetos@clinimkt.com.br <projetos@clinimkt.com.br>\n"
+"Language-Team: Olart Cretive Group <oleg@safonov.net>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-SearchPath-0: custom-post-type-permalinks\n"
+
+#: custom-post-type-permalinks/custom-post-type-permalinks.php:108
+#, php-format
+msgid "View all posts in %s"
+msgstr "Ver todos os posts em %s"
+
+#: custom-post-type-permalinks/custom-post-type-permalinks.php:552
+msgid "Permalink Setting for custom post type"
+msgstr "Opções de Permalink para os tipos de post"
+
+#: custom-post-type-permalinks/custom-post-type-permalinks.php:594
+msgid "Use custom permalink of custom taxonomy archive."
+msgstr "Use Permalinks personalizados de uma taxonomia"
+
+#: custom-post-type-permalinks/custom-post-type-permalinks.php:615
+msgid "Setting permalinks of custom post type."
+msgstr "Opções de Permalink para tipos de posts personalizados"
+
+#: custom-post-type-permalinks/custom-post-type-permalinks.php:616
+msgid ""
+"The tags you can use is WordPress Structure Tags and '%\"custom_taxonomy_slug\"%'. (e.g. %actors%)"
+msgstr "As tags que você pode usar no WordPress e '%\"custom_taxonomy_slug\"%'. (e.g. %actors%)"
+
+#: custom-post-type-permalinks/custom-post-type-permalinks.php:617
+msgid "%\"custom_taxonomy_slug\"% is replaced the taxonomy's term.'."
+msgstr "%\"custom_taxonomy_slug\"% é substituído pelo termo da taxonomia.'."
+
+#: custom-post-type-permalinks/custom-post-type-permalinks.php:619
+msgid "Presence of the trailing '/' is unified into a standard permalink structure setting."
+msgstr "A presença da barra é unificada no padrão da estrutura de Permalink."
+
+#: custom-post-type-permalinks/custom-post-type-permalinks.php:620
+msgid "If you don't entered permalink structure, permalink is configured /%postname%/'."
+msgstr "Se você não modificar a estrutura de Permalink, será usado o padrão /%postname%/'."
+
+#: custom-post-type-permalinks/custom-post-type-permalinks.php:640
+#, php-format
+msgid "If you check,The custom taxonomy's permalinks is <code>%s/post_type/taxonomy/term</code>."
+msgstr "Se você marcar, o Permalink da taxonomia será <code>%s/post_type/taxonomy/term</code>."
+
+#: custom-post-type-permalinks/custom-post-type-permalinks.php:668
+msgid ""
+"<h3>Custom Post Type Permalinks</h3><p>From <a href='options-permalink.php'>Permalinks</a>, set a "
+"custom permalink for each post type.</p>"
+msgstr ""
+"<h3>Permalink personalizada para posts</h3><p>Em <a href='options-permalink.php'>Permalinks</a>, "
+"defina a estrura dos links para cada tipo de post.</p>"
+
+#~ msgid "From Permalinks, set a custom permalink for each post type."
+#~ msgstr "パーマリンク設定より、カスタム投稿タイプごとのパーマリンクを設定できます。"
